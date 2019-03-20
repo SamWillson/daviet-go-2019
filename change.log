@@ -1,0 +1,25 @@
+[0.0.4] R
+1. Base Application Release
+
+[0.0.5] R
+1. Fixed empty registration fields.
+2. Added theme change option.
+3. Updated help pages for payment and phone verification.
+4. Improved localhost and server porting.
+
+[0.0.6]
+1. Updated about page, adding session expiry notice.
+2. Added 3D Map
+3. Added 2D Map
+4. Added to Trello
+
+[1.0.0]
+1. Remove Shop
+2. Admin: Login
+3. Admin: Payment Approval
+
+[?] T
+3. Admin: User ban
+4. Admin: Super stats
+5. Shop: Items
+6. Preorder
